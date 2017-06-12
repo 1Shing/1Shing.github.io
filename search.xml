@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[近期小动作]]></title>
+      <url>/2017/06/11/what_I_did/</url>
+      <content type="html"><![CDATA[<ul>
+<li>[x]  1.   <del>2TB硬盘屏蔽坏道</del></li>
+<li>[x]  2.   <del>BIOS 升级 v1.22</del></li>
+<li>[x]  3.   <del>转换 UEFI 与 GUID</del></li>
+<li>[x]  4.   <del>重新分区，C盘55GB，D盘410GB</del></li>
+<li>[x]  5.   <del>重装 Windows 10 企业版，15063</del></li>
+<li>[x]  6.   Github + Hexo + Markdown = 制作<strong>个人博客</strong></li>
+<li>[.]  7.   数据大迁移</li>
+<li>[.]  8.   …………</li>
+</ul>
+<hr>
+<blockquote>
+<p>“ 从现在始，用一干二净的桌面~ ”</p>
+</blockquote>
+<p><img src="https://ooo.0o0.ooo/2017/06/11/593d4cf70d083.png" alt="桌面.png"></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[扯淡]]></title>
+      <url>/2017/06/11/No.1/</url>
+      <content type="html"><![CDATA[<p>你好，<br>这里是 Shing 的个人博客，请问有什么可以帮到您？</p>
+<p>例如：</p>
+<ul>
+<li>。</li>
+<li>！</li>
+<li>？</li>
+<li>……</li>
+</ul>
+<p>&gt;</p>
+<blockquote>
+<p>我说，有人喜欢听人朗诵吗？</p>
+<p>下面有请~</p>
+</blockquote>
+<hr>
+<blockquote>
+<h2 id="海伦-凯勒："><a href="#海伦-凯勒：" class="headerlink" title="海伦-凯勒："></a><strong><em>海伦-凯勒：</em></strong></h2><p><strong><em>Is it not true,then,</em></strong><br><strong><em>that my life with all its limitations touches at many points the life of the World Beautiful?</em></strong><br><strong><em>Everything has its wonders,even darkness and silence,and I learn,</em></strong><br><strong><em>whatever state I may be in,</em></strong><br><strong><em>therein to be content.</em></strong></p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2017/06/10/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
